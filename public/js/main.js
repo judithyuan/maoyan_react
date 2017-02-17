@@ -4,7 +4,7 @@ import {Route,Router,IndexRoute,hashHistory,browserHistory} from "react-router";
 import Login from "Login";
 import Reg from "Reg";
 import Content from "Content";
-import Student from "Student";
+import Screenings from "Screenings";
 import 'antd/dist/antd.css';
 
 
